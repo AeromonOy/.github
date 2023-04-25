@@ -1,3 +1,11 @@
+---
+name: Bug report
+about: Something isn't working as it should
+title: ''
+labels: bug
+assignees: ''
+---
+
 ### Description
 
 Write a description of the change required. Typically includes the reason for the change and a rough overview of the task. Do not duplicate the content from the sections below.
