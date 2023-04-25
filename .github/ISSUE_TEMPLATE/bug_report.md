@@ -8,11 +8,26 @@ assignees: ''
 
 ### Description
 
-Write a description of the change required. Typically includes the reason for the change and a rough overview of the task. Do not duplicate the content from the sections below.
+Write a brief description of the issue you've hit. Avoid duplicating the content from the sections below - typically this might fit on one line.
+
+### Steps for reproducing
+
+1. If possible, write clear steps for reproducing the issue.
+2. Steps may include, among other things, any specific accounts or resources that reproduce the issue.
+3. Please also test the steps yourself, if possible.
+
+### Expected behavior
+
+Describe what behavior you expected from the application.
+
+### Observed behavior
+
+Describe the behavior you actually observed.
 
 ### Requirements
 
-* Write requirements for the change.
+* The application must match the expected behavior stated above.
+* If there are any other requirements for the fix, write them here.
 * Requirements must be clear and unambiguous.
 * Requirements should be objectively evaluable.
 
@@ -20,7 +35,7 @@ Write a description of the change required. Typically includes the reason for th
 
 Write acceptance criteria for the change. Typically this looks like the following:
 
-The change is accepted when it fulfills the requirements listed above and is considered fit for purpose by *(define who, such as "a member of the field operations team")*.
+The change is accepted when it fulfills the requirements above and the issue is verified to be fixed by *(define who; typically "the reporter", or e.g. "another member of the R&D team" if the bug is obviously testable)*.
 
 ### Documentation needs
 
