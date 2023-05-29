@@ -2,7 +2,7 @@
 name: Feature request
 about: I wish to see new functionality or a change to existing functionality
 title: ''
-labels: enhancement
+labels: feature
 assignees: ''
 ---
 
