@@ -16,6 +16,8 @@ Typically, this includes:
 * The problem the feature is trying to solve.
 * A description of the functionality of the feature, with a level of detail suitable to the level of planning already done.
 
+If this change doesn't add new functionality, make sure to label it `refactor` or `documentation` as applicable.
+
 ### Requirements
 
 * Write requirements for the change.
