@@ -1,14 +1,22 @@
 ---
-name: Bug report
-about: Something isn't working as it should
+name: Feature request
+about: I wish to see new functionality or a change to existing functionality
 title: ''
-labels: bug
+labels: feature
 assignees: ''
 ---
 
 ### Description
 
-Write a description of the change required. Typically includes the reason for the change and a rough overview of the task. Do not duplicate the content from the sections below.
+Write a description of the feature you're looking for. Avoid duplicating the content from the sections below.
+
+Typically, this includes:
+
+* The target audience for the feature.
+* The problem the feature is trying to solve.
+* A description of the functionality of the feature, with a level of detail suitable to the level of planning already done.
+
+If this change doesn't add new functionality, make sure to label it `refactor` or `documentation` as applicable.
 
 ### Requirements
 
