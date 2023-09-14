@@ -32,5 +32,5 @@ Typically, this includes:
 * Make the tasks concise - more than 1-2 sentences should go in the issue body and not the list.
     * If multiple nontrivial subtasks can be intuitively grouped into one issue, make them indented bullet points under the issue.
     * These nested items are not for explanation either, keep them for listing the subtasks of the issue.
-    * When the issue title is well-written, just `#123` suffices - GitHub will expand the title in its place.
+* When the issue title is well-written, just `#123` suffices - GitHub will expand the title in its place.
 * If useful, you can group tasks with fourth-level headers (`####`) e.g. based on inter-dependencies or scope. 
