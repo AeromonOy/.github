@@ -33,4 +33,10 @@ Typically, this includes:
     * If multiple nontrivial subtasks can be intuitively grouped into one issue, make them indented bullet points under the issue.
     * These nested items are not for explanation either, keep them for listing the subtasks of the issue.
 * When the issue title is well-written, just `#123` suffices - GitHub will expand the title in its place.
-* If useful, you can group tasks with fourth-level headers (`####`) e.g. based on inter-dependencies or scope. 
+* If useful, you can group tasks with fourth-level headers (`####`) e.g. based on inter-dependencies or scope.
+
+### Out of scope functionality
+
+* If some related things are out of scope for the project, include them here as bullet points.
+* You can include reasoning or brief future intentions for the omission.
+* If there are none, remove this section.
