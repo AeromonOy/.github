@@ -20,8 +20,12 @@ Typically, this includes:
 
 * Write requirements for the overall feature.
 * In the epic description, keep these relevant to the feature at large. Put subfeature requirements in their dedicated issues.
-* Requirements must be clear and unambiguous.
-* Requirements should be objectively evaluable.
+* Requirements must be clear and unambiguous, and usually objectively evaluable.
+* Good examples:
+    * User can perform XYZ action via the frontend
+    * Application verifies XYZ condition and provides feedback to user if necessary
+    * XYZ computation is performed with 6 significant digits of precision
+* More information on writing requirements: https://github.com/AeromonOy/aeromon/blob/main/dev-process.md#writing-requirements
 
 ### Tasks
 

@@ -21,8 +21,12 @@ If this change doesn't add new functionality, make sure to **remove** `feature` 
 ### Requirements
 
 * Write requirements for the change.
-* Requirements must be clear and unambiguous.
-* Requirements should be objectively evaluable.
+* Requirements must be clear and unambiguous, and usually objectively evaluable.
+* Good examples:
+    * User can perform XYZ action via the frontend
+    * Application verifies XYZ condition and provides feedback to user if necessary
+    * XYZ computation is performed with 6 significant digits of precision
+* More information on writing requirements: https://github.com/AeromonOy/aeromon/blob/main/dev-process.md#writing-requirements
 
 ### Acceptance criteria
 
