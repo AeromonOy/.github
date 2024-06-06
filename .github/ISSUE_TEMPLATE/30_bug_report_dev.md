@@ -31,7 +31,7 @@ Describe the behavior you actually observed. Screenshots or error tracebacks als
 
 * If there are any extra requirements for the bug fix, write them here. Otherwise, you can remove this section.
 * Requirements must be clear and unambiguous, and usually objectively evaluable.
-* In particular, **DO NOT** just duplicate "Observed behavior" here.
+* In particular, **DO NOT** just duplicate "Expected behavior" here.
 * Good examples:
     * Current behavior must be available with a flag (for XYZ reason)
     * Migration created to update incorrect data caused by this
