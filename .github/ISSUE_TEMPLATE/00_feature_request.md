@@ -36,14 +36,6 @@ The change is accepted when it fulfills the requirements listed above and is con
 
 ### Documentation needs
 
-Describe the documentation necessary to inform all relevant employees and other users of the product or service.
-
-### Handling of previous versions
-
-Describe how previous versions of the product or service will be affected by the change: for example, will they be phased out, or can they be used in parallel with the new version.
-
-### Documentation needs
-
 Choose one, and elaborate if necessary. For projects not in production use, this section can be removed.
 
 * [ ] No user-facing changes are expected that require explicitly informing users
