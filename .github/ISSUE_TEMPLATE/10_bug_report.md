@@ -45,11 +45,21 @@ The change is accepted when it fulfills the requirements above and the issue is 
 
 ### Documentation needs
 
-Describe the documentation necessary to inform all relevant employees and other users of the product or service.
+Choose one, and elaborate if necessary. For projects not in production use, this section can be removed.
+
+* [ ] No user-facing changes are expected that require explicitly informing users
+* [ ] User-facing changes are expected and must be adequately documented in: **(describe where)**
 
 ### Handling of previous versions
 
-Describe how previous versions of the product or service will be affected by the change: for example, will they be phased out, or can they be used in parallel with the new version.
+Choose all that apply, and elaborate if necessary. This can be copied from the issue description, if it's already filled in. For projects not in production use, this section can be removed.
+
+* [ ] This change will unconditionally replace the current production version and does not require further considerations
+* [ ] This change will require manual action beyond deployment, such as recomputation of existing results **(describe below)**
+* [ ] This change will require special deployment considerations, such as firmware upgrades across a fleet of devices **(describe below)**
+* [ ] This change is intended to be used in parallel with previous versions **(describe below)**
+* [ ] This change will require other deployment considerations **(describe below)**
+* [ ] Deployment considerations are currently unknown
 
 ### Additional information
 
