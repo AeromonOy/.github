@@ -39,9 +39,13 @@ Describe the behavior you actually observed. Screenshots or error tracebacks als
 
 ### Acceptance criteria
 
-Write acceptance criteria for the change. Typically this looks like the following:
+The change is accepted when it fulfills the requirements listed above and the issue has been verified to be fixed by:
 
-The change is accepted when it fulfills the requirements above and the issue is verified to be fixed by *(define who; typically "the reporter", or e.g. "another member of the R&D team" if the bug is obviously testable)*.
+* [ ] Issue reporter
+* [ ] Field team member(s)
+* [ ] Data analysis team member(s)
+* [ ] Other development team member(s)
+* [ ] Other: **(please specify)**
 
 ### Documentation needs
 

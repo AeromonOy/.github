@@ -30,9 +30,12 @@ If this change doesn't add new functionality, make sure to **remove** `feature` 
 
 ### Acceptance criteria
 
-Write acceptance criteria for the change. Typically this looks like the following:
+The change is accepted when it fulfills the requirements listed above and has been verified by:
 
-The change is accepted when it fulfills the requirements listed above and is considered fit for purpose by *(define who, such as "a member of the field operations team")*.
+* [ ] Field team member(s)
+* [ ] Data analysis team member(s)
+* [ ] Other development team member(s)
+* [ ] Other: **(please specify)**
 
 ### Documentation needs
 
