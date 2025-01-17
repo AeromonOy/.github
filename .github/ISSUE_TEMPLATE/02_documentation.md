@@ -1,32 +1,32 @@
 ---
-name: Feature request
-about: I wish to see new functionality or a change to existing functionality
+name: Documentation update
+about: Documentation needs to be created or updated
 title: ''
-type: Feature
-labels: feature
+type: Documentation
+labels: documentation
 assignees: ''
 ---
 
 ### Description
 
-Write a description of the feature you're looking for. Avoid duplicating the content from the sections below.
+Write a description of the documentation you're looking for. Avoid duplicating the content from the sections below.
 
 Typically, this includes:
 
-* The target audience for the feature.
-* The problem the feature is trying to solve.
-* A description of the functionality of the feature, with a level of detail suitable to the level of planning already done.
-
-If this change doesn't add new functionality, please use the **Code refactor** or **Documentation update** templates as applicable.
+* The target audience for the documentation.
+* The feature, process or other thing to be documented.
+* The current state of documentation.
+* An overview of the expected documentation structure, with a level of detail suitable to the level of planning already done.
 
 ### Requirements
 
 * Write requirements for the change.
 * Requirements must be clear and unambiguous, and usually objectively evaluable.
 * Good examples:
-    * User can perform XYZ action via the frontend
-    * Application verifies XYZ condition and provides feedback to user if necessary
-    * XYZ computation is performed with 6 significant digits of precision
+    * Feature/process XYZ is documented
+    * Documentation uses standard terminology
+    * Documentation adheres to XYZ standard
+    * Documentation is placed in XYZ repository
 * More information on writing requirements: https://github.com/AeromonOy/aeromon/blob/main/dev-process.md#writing-requirements
 
 ### Acceptance criteria
@@ -42,8 +42,8 @@ The change is accepted when it fulfills the requirements listed above and has be
 
 Choose one, and elaborate if necessary. For projects not in production use, this section can be removed.
 
-* [ ] No user-facing changes are expected that require explicitly informing users
-* [ ] User-facing changes are expected and must be adequately documented in: **(describe where)**
+* [ ] No user-facing documentation changes are expected that require explicitly informing users
+* [ ] User-facing documentation is expected to change in a way that requires informing users via: **(describe where)**
 
 ### Handling of previous versions
 
@@ -51,7 +51,7 @@ Choose all that apply, and elaborate if necessary. This can be copied from the i
 
 * [ ] This change will unconditionally replace the current production version and does not require further considerations
 * [ ] This change will require manual action beyond deployment, such as recomputation of existing results **(describe below)**
-* [ ] This change will require special deployment considerations, such as firmware upgrades across a fleet of devices **(describe below)**
+* [ ] This change will require special deployment considerations, such as distribution to customers **(describe below)**
 * [ ] This change is intended to be used in parallel with previous versions **(describe below)**
 * [ ] This change will require other deployment considerations **(describe below)**
 * [ ] Deployment considerations are currently unknown

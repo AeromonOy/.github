@@ -2,6 +2,7 @@
 name: Design process
 about: Something (process, architecture, plan) needs to be designed (**not** CAD; these issues don't typically result in code)
 title: ''
+type: Design
 labels: design
 assignees: ''
 ---

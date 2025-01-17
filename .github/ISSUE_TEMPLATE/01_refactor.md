@@ -1,48 +1,36 @@
 ---
-name: Bug report
-about: Something isn't working as it should
+name: Code refactor
+about: I wish to see a code change that doesn't affect functionality
 title: ''
-type: Bug
-labels: bug
+type: Refactor
+labels: refactor
 assignees: ''
 ---
 
 ### Description
 
-Write a brief description of the issue you've hit.
+Write a description of the change you're looking for. Avoid duplicating the content from the sections below.
 
-Avoid duplicating the content from the sections below - typically this fits on one line.
+Typically, this includes:
 
-### Steps for reproducing
-
-1. If possible, write clear steps for reproducing the issue.
-2. Steps may include, among other things, any specific accounts or resources that reproduce the issue.
-3. Please also test the steps yourself, if possible.
-4. At minimum, note down what you did when experiencing the issue.
-
-### Expected behavior
-
-Describe what behavior you expected from the application.
-
-### Observed behavior
-
-Describe the behavior you actually observed. Screenshots or error tracebacks also belong here.
+* The problem the refactor is trying to solve.
+* A description of the refactor steps, with a level of detail suitable to the level of planning already done.
 
 ### Requirements
 
-* If there are any extra requirements for the bug fix, write them here. Otherwise, you can remove this section.
+* Write requirements for the change.
 * Requirements must be clear and unambiguous, and usually objectively evaluable.
-* In particular, **DO NOT** just duplicate "Expected behavior" here.
 * Good examples:
-    * Current behavior must be available with a flag (for XYZ reason)
-    * Migration created to update incorrect data caused by this
+    * XYZ dependency is replaced with ABC
+    * Performance of XYZ improves noticeably
+    * XYZ condition is still checked
+    * XYZ computation produces the same results within float accuracy
 * More information on writing requirements: https://github.com/AeromonOy/aeromon/blob/main/dev-process.md#writing-requirements
 
 ### Acceptance criteria
 
-The change is accepted when it fulfills the requirements listed above and the issue has been verified to be fixed by:
+The change is accepted when it fulfills the requirements listed above and has been verified by:
 
-* [ ] Issue reporter
 * [ ] Field team member(s)
 * [ ] Data analysis team member(s)
 * [ ] Other development team member(s)
@@ -65,8 +53,3 @@ Choose all that apply, and elaborate if necessary. This can be copied from the i
 * [ ] This change is intended to be used in parallel with previous versions **(describe below)**
 * [ ] This change will require other deployment considerations **(describe below)**
 * [ ] Deployment considerations are currently unknown
-
-### Additional information
-
-This section can include e.g. additional screenshots. Keep the information clearly useful, or remove this section
-if it's unnecessary.

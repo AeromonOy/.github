@@ -2,6 +2,7 @@
 name: Manufacturing process
 about: Hardware needs to be manufactured
 title: ''
+type: Manufacturing
 labels: manufacturing
 assignees: ''
 ---
