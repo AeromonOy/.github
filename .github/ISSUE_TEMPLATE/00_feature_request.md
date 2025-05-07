@@ -36,6 +36,8 @@ The change is accepted when it fulfills the requirements listed above and has be
 * [ ] Field team member(s)
 * [ ] Data analysis team member(s)
 * [ ] Other development team member(s)
+* [ ] Changes the laboratory information management system, requires verification **(describe verification steps below)**
+* [ ] Changes the laboratory information management system, verification passed **(describe verification results below)**
 * [ ] Other: **(please specify)**
 
 ### Documentation needs
