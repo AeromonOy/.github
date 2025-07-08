@@ -3,7 +3,6 @@ name: Bug report (development phase)
 about: As in Bug report, but for projects not yet in production use
 title: ''
 type: Bug
-labels: bug
 assignees: ''
 ---
 

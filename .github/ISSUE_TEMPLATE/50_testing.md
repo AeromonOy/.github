@@ -3,7 +3,6 @@ name: Testing process
 about: Something (hardware, software, etc.) needs to be tested before proper implementation
 title: ''
 type: Hardware testing
-labels: testing
 assignees: ''
 ---
 

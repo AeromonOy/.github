@@ -3,7 +3,6 @@ name: Feature request (development phase)
 about: As in Feature request, but for projects not yet in production use
 title: ''
 type: Feature
-labels: feature
 assignees: ''
 ---
 

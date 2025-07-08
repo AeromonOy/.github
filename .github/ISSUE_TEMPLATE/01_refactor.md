@@ -3,7 +3,6 @@ name: Code refactor
 about: I wish to see a code change that doesn't affect functionality
 title: ''
 type: Refactor
-labels: refactor
 assignees: ''
 ---
 

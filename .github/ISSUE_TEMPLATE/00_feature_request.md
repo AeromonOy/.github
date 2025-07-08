@@ -3,7 +3,6 @@ name: Feature request
 about: I wish to see new functionality or a change to existing functionality
 title: ''
 type: Feature
-labels: feature
 assignees: ''
 ---
 

@@ -3,7 +3,6 @@ name: Epic
 about: A feature or other process spanning multiple issues and PRs
 title: 'EPIC: '
 type: Epic
-labels: epic
 assignees: ''
 ---
 

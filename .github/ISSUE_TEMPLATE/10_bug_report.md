@@ -3,7 +3,6 @@ name: Bug report
 about: Something isn't working as it should
 title: ''
 type: Bug
-labels: bug
 assignees: ''
 ---
 

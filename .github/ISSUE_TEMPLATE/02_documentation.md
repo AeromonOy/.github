@@ -3,7 +3,6 @@ name: Documentation update
 about: Documentation needs to be created or updated
 title: ''
 type: Documentation
-labels: documentation
 assignees: ''
 ---
 
