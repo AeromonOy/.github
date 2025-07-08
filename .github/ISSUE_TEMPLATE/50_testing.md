@@ -1,6 +1,6 @@
 ---
 name: Testing process
-about: Something (hardware, software, etc.) needs to be tested before proper implementation
+about: Hardware needs to be tested
 title: ''
 type: Hardware testing
 assignees: ''
