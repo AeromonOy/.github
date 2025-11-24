@@ -13,9 +13,9 @@ Write a description of the pull request contents. This includes at least:
 
 Choose at least one, and elaborate if necessary. For projects not in production use, this section can be removed.
 
-* [ ] No user-facing changes that require explicitly informing users
-* [ ] User-facing changes are adequately documented in documentation included in this change
-* [ ] User-facing changes are adequately documented in external documentation: **(describe where)**
+* [ ] No user-facing changes that require explicitly informing users or updating the user manual
+* [ ] User-facing changes, this PR includes the updated user manual for new functionality or significant edits to existing features
+* [ ] User-facing changes are adequately documented in external documentation: (describe where)
 
 ### Handling of previous versions
 
